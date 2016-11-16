@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('order-manager-debug.aar'))
